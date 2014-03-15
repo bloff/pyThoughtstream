@@ -9,7 +9,7 @@ import wx
 import serial
 from serial.serialutil import SerialException
 
-import pyttsx
+# import pyttsx
 
 import threading
 
